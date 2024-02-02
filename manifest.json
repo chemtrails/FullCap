@@ -6,7 +6,7 @@
   "action": {
     "default_title": "FullCap - Full Page Capture",
     "default_icon": "icon-999.png",
-    "default_popup": "popup.html"
+    "default_popup": "popup/popup.html"
   },
   "commands": {
     "_execute_action": {
