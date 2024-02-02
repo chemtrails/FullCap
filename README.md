@@ -1,7 +1,7 @@
 FullCap - Full Page Capture
 ========================
 
-A simple Google Chrome extension that takes a screen capture of a full web page.
+A simple browser extension that takes a screen capture of a full web page.
 
 Peter Coles created [full-page-screen-capture-chrome-extension](https://github.com/mrcoles/full-page-screen-capture-chrome-extension). The project seems dead and the [chrome extension](https://chromewebstore.google.com/detail/gofullpage-full-page-scre/fdpohaocaechififmbbbbbknoalclacl) is closed source. So I migrated it to Manifest v3 and plan to maintain it here.
 
@@ -21,7 +21,7 @@ not yet
 
 ---
 
-The following license applies to Peter Coles's Manifest v2 code and images
+The following license applies to Peter Coles's Manifest v2 Chrome extension
 
 ```
 The MIT License

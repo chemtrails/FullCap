@@ -262,20 +262,6 @@ window.CaptureAPI = (function () {
             }
         });
 
-        // chrome.tabs.executeScript(tab.id, {file: 'page.js'}, function() {
-        //     if (timedOut) {
-        //         console.error('Timed out too early while waiting for ' +
-        //                       'chrome.tabs.executeScript. Try increasing the timeout.');
-        //     } else {
-        //         loaded = true;
-        //         progress(0);
-
-        //         initiateCapture(tab, function() {
-        //             callback(getBlobs(screenshots));
-        //         });
-        //     }
-        // });
-
         window.setTimeout(function () {
             if (!loaded) {
                 timedOut = true;

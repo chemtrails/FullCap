@@ -5,8 +5,8 @@
   "description": "Screen capture the entire page",
   "action": {
     "default_title": "FullCap - Full Page Capture",
-    "default_icon": "icon-999.png",
-    "default_popup": "popup/popup.html"
+    "default_icon": "/icons/icon.png",
+    "default_popup": "/popup/popup.html"
   },
   "commands": {
     "_execute_action": {
@@ -26,8 +26,8 @@
     "*://*/*"
   ],
   "icons": {
-    "16": "icon16-999.png",
-    "48": "icon48-999.png",
-    "128": "icon128-999.png"
+    "16": "/icons/icon16.png",
+    "48": "/icons/icon48.png",
+    "128": "/icons/icon128.png"
   }
 }
