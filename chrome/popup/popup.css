@@ -50,17 +50,19 @@ a:active {
 
 #loading .loader {
     position: relative;
-    border-top: 12px dotted #000;
-    height: 9px;
+    height: 10px;
+    background: lightgrey;
+    border-radius: 2px;
 }
 
 #loading .bar {
     position: absolute;
-    top: -21px;
     left: 0;
-    height: 30px;
+    height: 10px;
     width: 0%;
-    background: #fff url(loader.gif) scroll no-repeat center right;
+    background: rgb(126, 44, 168);
+    border-radius: 2px;
+    transition: width 0.05s ease;
 }
 
 p {

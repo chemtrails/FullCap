@@ -21,7 +21,7 @@ not yet
 
 ---
 
-The following license applies to Peter Coles's Manifest v2 Chrome extension
+The following license applies to Peter Coles's Manifest v2 Chrome extension code
 
 ```
 The MIT License
